@@ -1,0 +1,1 @@
+{"name": "Field AutoComplete", "min_point_version": 50, "conflicts": ["field-autocomplete"], "mod": 1738134068, "homepage": "", "max_point_version": 241100, "branch_index": 1, "disabled": false, "config": {"toggle_ac_shortcut": "F4", "loose_search": false, "hehexd": {}}}
